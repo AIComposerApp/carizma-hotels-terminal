@@ -1,0 +1,6 @@
+{
+  "name": "Carizma Luxury Hotels Front Desk",
+  "description": "Mobile-first front desk terminal for Carizma Luxury Hotels",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
